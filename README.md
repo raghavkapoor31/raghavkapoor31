@@ -26,6 +26,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
+## 📚 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavkapoor31&theme=rose_pine)
 ---
 
 ## 📊 GitHub Stats
