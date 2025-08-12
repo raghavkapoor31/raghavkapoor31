@@ -28,10 +28,9 @@
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=rose_pine)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavkapoor31&show_icons=true&theme=rose_pine)
 
 ---
 
