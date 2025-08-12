@@ -1,4 +1,4 @@
-# Hi, I'm Raghav Kapoor👋
+# Hi, I'm Raghav Kapoor✨
 
 🎓 B.Tech CSE | Data Science Enthusiast  
 📊 Passionate about Data Visualization, Analytics, and Machine Learning  
