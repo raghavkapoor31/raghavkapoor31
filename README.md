@@ -38,5 +38,5 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/raghav-kapoor-00bb44267/))
+- [LinkedIn]([(https://www.linkedin.com/in/raghav-kapoor-00bb44267/)])
 - [Email](mailto:raghavkapoor.670@gmail.com)
