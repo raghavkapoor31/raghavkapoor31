@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="250" src="https://github.com/itzdiv/yourusername/blob/main/your-profile-pic.png" />
+<img align="right" width="250" src="https://github.com/itzdiv/yourusername/blob/main/your-profile-pic.png" />
 
 # Hi, I'm Raghav Kapoor👋
 
