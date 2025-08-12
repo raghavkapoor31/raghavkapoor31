@@ -37,19 +37,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
 
 ## 📫 Connect with Me
 
-- [LinkedIn](your-linkedin-url)
-- [Email](mailto:your-email)
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/raghav-kapoor-00bb44267/))
+- [Email](mailto:raghavkapoor.670@gmail.com)
