@@ -1,5 +1,5 @@
-# Hi, I'm Raghav Kapoor✨
-
+# About Me!
+👋 Hi, I’m Raghav Kapoor
 🎓 B.Tech CSE | Data Science Enthusiast  
 📊 Passionate about Data Visualization, Analytics, and Machine Learning  
 🚀 Python, Power BI, Tableau, Deep Learning | Always learning, always coding!
