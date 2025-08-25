@@ -34,10 +34,5 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavkapoor31&show_icons=true&theme=rose_pine)
-
----
 
 
